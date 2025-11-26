@@ -185,35 +185,36 @@ def info_parser(info):
     return [serves[0], faults[0], serves[1], faults[1]]
 
 def split_second_rows(df):
+    df['is_first'] = pd.Series([True]*len(df))
     rows = []
-
     for _, row in df.iterrows():
-        # 元の行をコピー
         row_orig = row.copy()
 
         # second がある場合に分割する
         if pd.notnull(row['second']) or pd.notnull(row['second_f']):
             # 新しい行を作る
             row_new = row.copy()
-
-            # 元の行の second を消す
-            row_orig['second'] = None
-            row_orig['second_f'] = None
-
-            # 新しい行では first を None に
-            row_new['first'] = None
-            row_new['first_f'] = None
+            row_new['first'] = row['second']
+            row_new['first_f'] = row['second_f']
+            row_new['is_first'] = False
 
             rows.append(row_orig)
             rows.append(row_new)
         else:
             rows.append(row_orig)
-
-    return pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
+    df.drop(columns=['second', 'second_f'], axis=1, inplace=True)
+    df.rename(columns={'first': 'serve', 'first_f': 'fault'}, inplace=True)
+    return df
 
 if __name__ == "__main__":
     prompt = "Enter the url: "
     url = input(prompt)
+
     prompt = "Enter the output file name (e.g., output.csv): "
-    file_name = input(prompt)
+    while True:
+        file_name = input(prompt)
+        if file_name.endswith(".csv"):
+            break
+        print("Please enter a valid file name ending with .csv")
     parse_tennis_table(url, file_name=file_name)

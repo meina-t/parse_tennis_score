@@ -1,158 +1,158 @@
-Server,Sets,Games,Points,info,left_win,first,first_f,second,second_f
-Carlos Alcaraz,0‑0,0‑0,0‑0,"1st serve down the T, service winner.",True,T,,,
-Carlos Alcaraz,0‑0,0‑0,15‑0,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the line (very deep), winner.",False,T,W,,
-Carlos Alcaraz,0‑0,0‑0,15‑0,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the line (very deep), winner.",False,,,W,
-Carlos Alcaraz,0‑0,0‑0,15‑15,"1st serve down the T, service winner.",True,T,,,
-Carlos Alcaraz,0‑0,0‑0,30‑15,"1st serve down the T; forehand chip/slice return down the middle (shallow); forehand crosscourt, winner.",True,T,,,
-Carlos Alcaraz,0‑0,0‑0,40‑15,"1st serve wide, service winner.",True,W,,,
-,,,,,,,,,
-Lorenzo Musetti,0‑0,0‑1,0‑0,"1st serve down the T; backhand return down the middle (deep); forehand down the middle; backhand crosscourt (long), unforced error.",True,T,,,
-Lorenzo Musetti,0‑0,0‑1,15‑0,"1st serve wide; backhand return crosscourt (deep); forehand drop shot inside-out; backhand slice at net crosscourt; backhand slice at net crosscourt (wide), unforced error. (4-shot rally)",False,W,,,
-Lorenzo Musetti,0‑0,0‑1,15‑15,"1st serve wide, service winner.",True,W,,,
-Lorenzo Musetti,0‑0,0‑1,30‑15,"1st serve down the T, service winner.",True,T,,,
-Lorenzo Musetti,0‑0,0‑1,40‑15,"1st serve wide, service winner.",True,W,,,
-,,,,,,,,,
-Carlos Alcaraz,0‑0,1‑1,0‑0,"1st serve wide, fault (net). 2nd serve wide; forehand return down the line (deep); backhand crosscourt; backhand slice down the line; forehand chip/slice at net crosscourt, winner. (5-shot rally)",True,W,N,,
-Carlos Alcaraz,0‑0,1‑1,0‑0,"1st serve wide, fault (net). 2nd serve wide; forehand return down the line (deep); backhand crosscourt; backhand slice down the line; forehand chip/slice at net crosscourt, winner. (5-shot rally)",True,,,W,
-Carlos Alcaraz,0‑0,1‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt (net), unforced error.",False,T,N,,
-Carlos Alcaraz,0‑0,1‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt (net), unforced error.",False,,,W,
-Carlos Alcaraz,0‑0,1‑1,15‑15,"1st serve wide; forehand return down the middle (very deep); forehand inside-out; backhand slice down the middle, forced error.",True,W,,,
-Carlos Alcaraz,0‑0,1‑1,30‑15,"1st serve wide; backhand slice return crosscourt (very deep); forehand inside-out; backhand slice down the middle; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand slice down the line; forehand at net down the middle; backhand lob crosscourt (long), unforced error. (9-shot rally)",True,W,,,
-Carlos Alcaraz,0‑0,1‑1,40‑15,"1st serve down the T, ace.",True,T,,,
-,,,,,,,,,
-Lorenzo Musetti,0‑0,1‑2,0‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return inside-out (deep); forehand chip/slice down the line, forced error.",False,W,N,,
-Lorenzo Musetti,0‑0,1‑2,0‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return inside-out (deep); forehand chip/slice down the line, forced error.",False,,,T,
-Lorenzo Musetti,0‑0,1‑2,0‑15,"1st serve down the T, fault (long). 2nd serve wide; backhand return down the middle (long), unforced error.",True,T,L,,
-Lorenzo Musetti,0‑0,1‑2,0‑15,"1st serve down the T, fault (long). 2nd serve wide; backhand return down the middle (long), unforced error.",True,,,W,
-Lorenzo Musetti,0‑0,1‑2,15‑15,"1st serve down the T; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand crosscourt, winner. (6-shot rally)",False,T,,,
-Lorenzo Musetti,0‑0,1‑2,15‑30,"1st serve wide; backhand return down the middle (shallow); backhand inside-out; forehand chip/slice down the middle; forehand at net crosscourt; forehand chip/slice down the middle, forced error. (5-shot rally)",True,W,,,
-Lorenzo Musetti,0‑0,1‑2,30‑30,"1st serve wide, fault (net). 2nd serve wide; forehand chip/slice return down the line (very deep); backhand down the middle; forehand down the middle; forehand inside-out; backhand crosscourt; forehand inside-out; backhand down the line; forehand down the middle; forehand drop shot inside-out; backhand slice at net crosscourt; backhand lob crosscourt (wide), unforced error. (11-shot rally)",True,W,N,,
-Lorenzo Musetti,0‑0,1‑2,30‑30,"1st serve wide, fault (net). 2nd serve wide; forehand chip/slice return down the line (very deep); backhand down the middle; forehand down the middle; forehand inside-out; backhand crosscourt; forehand inside-out; backhand down the line; forehand down the middle; forehand drop shot inside-out; backhand slice at net crosscourt; backhand lob crosscourt (wide), unforced error. (11-shot rally)",True,,,W,
-Lorenzo Musetti,0‑0,1‑2,40‑30,"1st serve wide; backhand return crosscourt (deep); backhand slice crosscourt; backhand at net crosscourt; backhand down the line, forced error. (4-shot rally)",False,W,,,
-Lorenzo Musetti,0‑0,1‑2,40‑40,"1st serve down the T, ace.",True,T,,,
-Lorenzo Musetti,0‑0,1‑2,AD‑40,"1st serve down the T, service winner.",True,T,,,
-,,,,,,,,,
-Carlos Alcaraz,0‑0,2‑2,0‑0,"1st serve wide; forehand return down the line (shallow); backhand down the middle; forehand inside-out; backhand crosscourt; backhand slice crosscourt (net), unforced error. (5-shot rally)",True,W,,,
-Carlos Alcaraz,0‑0,2‑2,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand slice return crosscourt (deep); forehand drop shot inside-out, winner.",True,T,N,,
-Carlos Alcaraz,0‑0,2‑2,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand slice return crosscourt (deep); forehand drop shot inside-out, winner.",True,,,W,
-Carlos Alcaraz,0‑0,2‑2,30‑0,"1st serve wide; forehand chip/slice return down the line (shallow); forehand approach shot inside-in; forehand chip/slice down the middle; smash inside-out, winner. (5-shot rally)",True,W,,,
-Carlos Alcaraz,0‑0,2‑2,40‑0,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the middle; backhand crosscourt; forehand inside-out; backhand slice down the line; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line; backhand down the line; forehand crosscourt (wide), unforced error. (13-shot rally)",True,W,N,,
-Carlos Alcaraz,0‑0,2‑2,40‑0,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the middle; backhand crosscourt; forehand inside-out; backhand slice down the line; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line; backhand down the line; forehand crosscourt (wide), unforced error. (13-shot rally)",True,,,W,
-,,,,,,,,,
-Lorenzo Musetti,0‑0,2‑3,0‑0,"1st serve wide, fault (net). 2nd serve to body; backhand return inside-in (long), unforced error.",True,W,N,,
-Lorenzo Musetti,0‑0,2‑3,0‑0,"1st serve wide, fault (net). 2nd serve to body; backhand return inside-in (long), unforced error.",True,,,B,
-Lorenzo Musetti,0‑0,2‑3,15‑0,"1st serve wide; backhand return crosscourt (very deep); forehand inside-out; backhand drop shot down the line (net), unforced error.",True,W,,,
-Lorenzo Musetti,0‑0,2‑3,30‑0,"1st serve down the T, fault (net). 2nd serve down the T, service winner.",True,T,N,,
-Lorenzo Musetti,0‑0,2‑3,30‑0,"1st serve down the T, fault (net). 2nd serve down the T, service winner.",True,,,T,
-Lorenzo Musetti,0‑0,2‑3,40‑0,"1st serve wide, fault (wide). 2nd serve wide; backhand return crosscourt (very deep); backhand slice down the line; forehand down the line (long), unforced error.",True,W,W,,
-Lorenzo Musetti,0‑0,2‑3,40‑0,"1st serve wide, fault (wide). 2nd serve wide; backhand return crosscourt (very deep); backhand slice down the line; forehand down the line (long), unforced error.",True,,,W,
-,,,,,,,,,
-Carlos Alcaraz,0‑0,3‑3,0‑0,"1st serve down the T; backhand slice return down the middle (very deep); forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt, winner. (7-shot rally)",True,T,,,
-Carlos Alcaraz,0‑0,3‑3,15‑0,"1st serve down the T, fault (wide). 2nd serve down the T; forehand return down the middle (deep); forehand inside-out, winner.",True,T,W,,
-Carlos Alcaraz,0‑0,3‑3,15‑0,"1st serve down the T, fault (wide). 2nd serve down the T; forehand return down the middle (deep); forehand inside-out, winner.",True,,,T,
-Carlos Alcaraz,0‑0,3‑3,30‑0,"1st serve to body; forehand return down the line (deep); backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand crosscourt; backhand slice crosscourt; backhand down the line; forehand down the line; backhand slice down the middle, forced error. (10-shot rally)",False,B,,,
-Carlos Alcaraz,0‑0,3‑3,30‑15,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (deep); forehand inside-out; backhand down the middle; forehand crosscourt (long), unforced error. (4-shot rally)",False,W,N,,
-Carlos Alcaraz,0‑0,3‑3,30‑15,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (deep); forehand inside-out; backhand down the middle; forehand crosscourt (long), unforced error. (4-shot rally)",False,,,W,
-Carlos Alcaraz,0‑0,3‑3,30‑30,"1st serve wide; forehand return down the middle (very deep); forehand inside-out; backhand down the line (wide), unforced error.",True,W,,,
-Carlos Alcaraz,0‑0,3‑3,40‑30,"1st serve wide, fault (net). 2nd serve wide; backhand slice return crosscourt (very deep); forehand inside-in, winner.",True,W,N,,
-Carlos Alcaraz,0‑0,3‑3,40‑30,"1st serve wide, fault (net). 2nd serve wide; backhand slice return crosscourt (very deep); forehand inside-in, winner.",True,,,W,
-,,,,,,,,,
-Lorenzo Musetti,0‑0,3‑4,0‑0,"1st serve down the T, service winner.",True,T,,,
-Lorenzo Musetti,0‑0,3‑4,15‑0,"1st serve wide, ace.",True,W,,,
-Lorenzo Musetti,0‑0,3‑4,30‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return down the middle (very deep); forehand chip/slice inside-out; forehand inside-out (net), unforced error.",True,W,N,,
-Lorenzo Musetti,0‑0,3‑4,30‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return down the middle (very deep); forehand chip/slice inside-out; forehand inside-out (net), unforced error.",True,,,T,
-Lorenzo Musetti,0‑0,3‑4,40‑0,"1st serve down the T, fault (long). 2nd serve wide; backhand return crosscourt (long), unforced error.",True,T,L,,
-Lorenzo Musetti,0‑0,3‑4,40‑0,"1st serve down the T, fault (long). 2nd serve wide; backhand return crosscourt (long), unforced error.",True,,,W,
-,,,,,,,,,
-Carlos Alcaraz,0‑0,4‑4,0‑0,"1st serve down the T, service winner.",True,T,,,
-Carlos Alcaraz,0‑0,4‑4,15‑0,"1st serve down the T; forehand return down the middle (shallow); forehand inside-out; backhand down the middle; forehand crosscourt; forehand down the line; backhand down the line (net), unforced error. (6-shot rally)",False,T,,,
-Carlos Alcaraz,0‑0,4‑4,15‑15,"1st serve wide, service winner.",True,W,,,
-Carlos Alcaraz,0‑0,4‑4,30‑15,"1st serve wide; backhand slice return crosscourt (very deep); forehand inside-out; backhand down the middle (long), unforced error.",True,W,,,
-Carlos Alcaraz,0‑0,4‑4,40‑15,"1st serve down the T; backhand slice return down the middle; forehand volley crosscourt; forehand chip/slice down the middle (long), unforced error.",True,T,,,
-,,,,,,,,,
-Lorenzo Musetti,0‑0,4‑5,0‑0,"1st serve down the T, fault (net). 2nd serve down the T; backhand return inside-out (shallow); forehand down the line; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the middle; backhand down the middle (long), unforced error. (7-shot rally)",True,T,N,,
-Lorenzo Musetti,0‑0,4‑5,0‑0,"1st serve down the T, fault (net). 2nd serve down the T; backhand return inside-out (shallow); forehand down the line; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the middle; backhand down the middle (long), unforced error. (7-shot rally)",True,,,T,
-Lorenzo Musetti,0‑0,4‑5,15‑0,"1st serve down the T, service winner.",True,T,,,
-Lorenzo Musetti,0‑0,4‑5,30‑0,"1st serve down the T; backhand return down the middle (shallow); forehand inside-out (net), unforced error.",False,T,,,
-Lorenzo Musetti,0‑0,4‑5,30‑15,"1st serve wide, ace.",True,W,,,
-Lorenzo Musetti,0‑0,4‑5,40‑15,"1st serve wide; forehand return down the middle (very deep); forehand inside-out, forced error.",False,W,,,
-Lorenzo Musetti,0‑0,4‑5,40‑30,"1st serve down the T; forehand chip/slice return down the middle (deep); forehand approach shot inside-out; backhand slice crosscourt; backhand volley down the line; forehand down the line; backhand volley crosscourt; backhand at net down the line, winner. (8-shot rally)",False,T,,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve wide; forehand return crosscourt (shallow), winner.",False,T,L,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve wide; forehand return crosscourt (shallow), winner.",False,,,W,
-Lorenzo Musetti,0‑0,4‑5,40‑AD,"1st serve wide; backhand return crosscourt (shallow); backhand volley down the line; forehand down the line (net), unforced error.",True,W,,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, service winner.",True,W,,,
-Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide; backhand return down the middle (shallow); forehand approach shot crosscourt; forehand chip/slice down the middle; backhand volley down the middle; forehand at net inside-out, winner. (6-shot rally)",False,W,,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand slice crosscourt; backhand down the line; forehand chip/slice down the middle; forehand crosscourt; forehand chip/slice down the line; smash at baseline inside-in; forehand down the middle; forehand approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (17-shot rally)",True,W,L,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand slice crosscourt; backhand down the line; forehand chip/slice down the middle; forehand crosscourt; forehand chip/slice down the line; smash at baseline inside-in; forehand down the middle; forehand approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (17-shot rally)",True,,,T,
-Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return approach shot crosscourt (deep); backhand slice crosscourt; backhand volley down the line, winner. (4-shot rally)",False,W,L,,
-Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return approach shot crosscourt (deep); backhand slice crosscourt; backhand volley down the line, winner. (4-shot rally)",False,,,T,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (shallow); backhand crosscourt; backhand down the middle; forehand inside-out (wide), unforced error. (4-shot rally)",False,T,L,,
-Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (shallow); backhand crosscourt; backhand down the middle; forehand inside-out (wide), unforced error. (4-shot rally)",False,,,T,
-Lorenzo Musetti,0‑0,4‑5,40‑AD,"1st serve down the T; forehand chip/slice return crosscourt (shallow); forehand approach shot crosscourt; forehand down the middle; backhand volley crosscourt; backhand lob crosscourt; backhand overhead crosscourt; backhand down the line; forehand down the line (wide), unforced error. (8-shot rally)",False,T,,,
-,,,,,,,,,
-Carlos Alcaraz,1‑0,0‑0,0‑0,"1st serve down the T; backhand slice return crosscourt (shallow); forehand inside-in; forehand chip/slice crosscourt, forced error.",True,T,,,
-Carlos Alcaraz,1‑0,0‑0,15‑0,"1st serve down the T; forehand return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,T,,,
-Carlos Alcaraz,1‑0,0‑0,30‑0,"1st serve wide; forehand return down the middle (very deep); forehand crosscourt, winner.",True,W,,,
-Carlos Alcaraz,1‑0,0‑0,40‑0,"1st serve wide; backhand return down the line (deep); forehand crosscourt, winner.",True,W,,,
-,,,,,,,,,
-Lorenzo Musetti,0‑1,0‑1,0‑0,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (very deep); backhand crosscourt; backhand down the middle; backhand slice down the middle; forehand chip/slice approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (8-shot rally)",False,T,L,,
-Lorenzo Musetti,0‑1,0‑1,0‑0,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (very deep); backhand crosscourt; backhand down the middle; backhand slice down the middle; forehand chip/slice approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (8-shot rally)",False,,,T,
-Lorenzo Musetti,0‑1,0‑1,0‑15,"1st serve wide, fault (long). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt; forehand inside-in; forehand down the middle; forehand crosscourt; forehand chip/slice down the line; forehand inside-in (net), unforced error. (7-shot rally)",True,W,L,,
-Lorenzo Musetti,0‑1,0‑1,0‑15,"1st serve wide, fault (long). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt; forehand inside-in; forehand down the middle; forehand crosscourt; forehand chip/slice down the line; forehand inside-in (net), unforced error. (7-shot rally)",True,,,W,
-Lorenzo Musetti,0‑1,0‑1,15‑15,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (very deep); backhand slice crosscourt; backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand down the middle; forehand inside-out (wide), unforced error. (8-shot rally)",False,T,W,,
-Lorenzo Musetti,0‑1,0‑1,15‑15,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (very deep); backhand slice crosscourt; backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand down the middle; forehand inside-out (wide), unforced error. (8-shot rally)",False,,,T,
-Lorenzo Musetti,0‑1,0‑1,15‑30,"1st serve wide, service winner.",True,W,,,
-Lorenzo Musetti,0‑1,0‑1,30‑30,"1st serve down the T; backhand return crosscourt (very deep); backhand down the middle; forehand crosscourt (net), unforced error.",True,T,,,
-Lorenzo Musetti,0‑1,0‑1,40‑30,"1st serve wide; backhand return crosscourt (shallow); backhand slice crosscourt; backhand down the middle; forehand crosscourt; forehand crosscourt; forehand down the line (long), unforced error. (6-shot rally)",False,W,,,
-Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide, fault (wide). 2nd serve down the T; backhand return crosscourt (long), unforced error.",True,W,W,,
-Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide, fault (wide). 2nd serve down the T; backhand return crosscourt (long), unforced error.",True,,,T,
-Lorenzo Musetti,0‑1,0‑1,AD‑40,"1st serve wide; backhand return down the middle (shallow); backhand inside-out; forehand chip/slice crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle, forced error. (6-shot rally)",False,W,,,
-Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (deep); backhand crosscourt; backhand crosscourt; backhand down the middle (long), unforced error. (4-shot rally)",False,T,W,,
-Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (deep); backhand crosscourt; backhand crosscourt; backhand down the middle (long), unforced error. (4-shot rally)",False,,,T,
-Lorenzo Musetti,0‑1,0‑1,40‑AD,"1st serve wide, service winner.",True,W,,,
-Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide; forehand return crosscourt (very deep); forehand down the line; backhand slice crosscourt (net), unforced error.",True,W,,,
-Lorenzo Musetti,0‑1,0‑1,AD‑40,"1st serve wide, service winner.",True,W,,,
-,,,,,,,,,
-Carlos Alcaraz,1‑0,1‑1,0‑0,"1st serve down the T; backhand slice return down the middle (shallow); forehand at net crosscourt; forehand chip/slice down the middle; smash crosscourt, winner. (5-shot rally)",True,T,,,
-Carlos Alcaraz,1‑0,1‑1,15‑0,"1st serve wide, fault (net). 2nd serve down the T; forehand return down the middle (shallow); forehand inside-out (net), unforced error.",False,W,N,,
-Carlos Alcaraz,1‑0,1‑1,15‑0,"1st serve wide, fault (net). 2nd serve down the T; forehand return down the middle (shallow); forehand inside-out (net), unforced error.",False,,,T,
-Carlos Alcaraz,1‑0,1‑1,15‑15,"1st serve down the T, ace.",True,T,,,
-Carlos Alcaraz,1‑0,1‑1,30‑15,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand chip/slice crosscourt, forced error. (5-shot rally)",True,T,W,,
-Carlos Alcaraz,1‑0,1‑1,30‑15,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand chip/slice crosscourt, forced error. (5-shot rally)",True,,,W,
-Carlos Alcaraz,1‑0,1‑1,40‑15,"1st serve to body, service winner.",True,B,,,
-,,,,,,,,,
-Lorenzo Musetti,0‑1,1‑2,0‑0,"1st serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand slice crosscourt; forehand inside-out; backhand down the middle; backhand approach shot inside-out; forehand down the middle; forehand volley inside-out, winner. (10-shot rally)",False,T,,,
-Lorenzo Musetti,0‑1,1‑2,0‑15,"1st serve to body; backhand return crosscourt (shallow); backhand crosscourt (wide), unforced error.",False,B,,,
-Lorenzo Musetti,0‑1,1‑2,0‑30,"1st serve down the T; backhand return crosscourt (shallow); backhand drop shot down the line (net), unforced error.",False,T,,,
-Lorenzo Musetti,0‑1,1‑2,0‑40,"1st serve wide; backhand return crosscourt (deep); forehand inside-in; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt (long), unforced error. (6-shot rally)",False,W,,,
-,,,,,,,,,
-Carlos Alcaraz,1‑0,3‑1,0‑0,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return inside-out (deep); forehand down the line; backhand crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle; forehand crosscourt; forehand down the middle; forehand inside-out; backhand crosscourt; backhand down the middle; forehand inside-out; backhand drop shot down the line; forehand chip/slice at net crosscourt; forehand chip/slice down the line, forced error. (18-shot rally)",False,T,W,,
-Carlos Alcaraz,1‑0,3‑1,0‑0,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return inside-out (deep); forehand down the line; backhand crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle; forehand crosscourt; forehand down the middle; forehand inside-out; backhand crosscourt; backhand down the middle; forehand inside-out; backhand drop shot down the line; forehand chip/slice at net crosscourt; forehand chip/slice down the line, forced error. (18-shot rally)",False,,,T,
-Carlos Alcaraz,1‑0,3‑1,0‑15,"1st serve wide; backhand slice return down the middle; forehand volley crosscourt, winner.",True,W,,,
-Carlos Alcaraz,1‑0,3‑1,15‑15,"1st serve wide; forehand return crosscourt (very deep); forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line, winner. (8-shot rally)",False,W,,,
-Carlos Alcaraz,1‑0,3‑1,15‑30,"1st serve wide; backhand slice return crosscourt (shallow); backhand at net crosscourt; backhand down the line; forehand volley crosscourt; forehand at net crosscourt, winner. (6-shot rally)",False,W,,,
-Carlos Alcaraz,1‑0,3‑1,15‑40,"1st serve down the T; backhand slice return crosscourt (shallow); forehand at net inside-out, winner.",True,T,,,
-Carlos Alcaraz,1‑0,3‑1,30‑40,"1st serve to body, service winner.",True,B,,,
-Carlos Alcaraz,1‑0,3‑1,40‑40,"1st serve wide, service winner.",True,W,,,
-Carlos Alcaraz,1‑0,3‑1,AD‑40,"1st serve wide, fault (net). 2nd serve wide; backhand return down the line (deep); forehand chip/slice down the middle; forehand down the middle, forced error.",True,W,N,,
-Carlos Alcaraz,1‑0,3‑1,AD‑40,"1st serve wide, fault (net). 2nd serve wide; backhand return down the line (deep); forehand chip/slice down the middle; forehand down the middle, forced error.",True,,,W,
-,,,,,,,,,
-Lorenzo Musetti,0‑1,1‑4,0‑0,"1st serve down the T; backhand return crosscourt (deep); backhand crosscourt (wide), unforced error.",False,T,,,
-Lorenzo Musetti,0‑1,1‑4,0‑15,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the middle (long), unforced error.",True,T,N,,
-Lorenzo Musetti,0‑1,1‑4,0‑15,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the middle (long), unforced error.",True,,,W,
-Lorenzo Musetti,0‑1,1‑4,15‑15,"1st serve wide; forehand return down the middle (deep); forehand chip/slice inside-out; backhand down the line; forehand chip/slice down the line; backhand crosscourt, winner. (6-shot rally)",False,W,,,
-Lorenzo Musetti,0‑1,1‑4,15‑30,"1st serve wide; backhand return crosscourt (very deep); backhand drop shot crosscourt (net), unforced error.",False,W,,,
-Lorenzo Musetti,0‑1,1‑4,15‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (deep); backhand down the line (wide), unforced error.",False,T,L,,
-Lorenzo Musetti,0‑1,1‑4,15‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (deep); backhand down the line (wide), unforced error.",False,,,T,
-,,,,,,,,,
-Carlos Alcaraz,1‑0,5‑1,0‑0,"1st serve down the T, service winner.",True,T,,,
-Carlos Alcaraz,1‑0,5‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the line (very deep); forehand crosscourt; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand down the line; forehand chip/slice crosscourt; forehand down the line (wide), unforced error. (8-shot rally)",False,T,N,,
-Carlos Alcaraz,1‑0,5‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the line (very deep); forehand crosscourt; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand down the line; forehand chip/slice crosscourt; forehand down the line (wide), unforced error. (8-shot rally)",False,,,W,
-Carlos Alcaraz,1‑0,5‑1,15‑15,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return crosscourt (deep); backhand crosscourt; backhand slice crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt (net), unforced error. (6-shot rally)",False,T,L,,
-Carlos Alcaraz,1‑0,5‑1,15‑15,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return crosscourt (deep); backhand crosscourt; backhand slice crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt (net), unforced error. (6-shot rally)",False,,,T,
-Carlos Alcaraz,1‑0,5‑1,15‑30,"1st serve wide; backhand slice return down the middle (deep); forehand inside-out, winner.",True,W,,,
-Carlos Alcaraz,1‑0,5‑1,30‑30,"1st serve wide; forehand return down the line (deep); backhand down the middle; backhand inside-out; forehand crosscourt; forehand chip/slice down the line; backhand slice at net down the line; forehand chip/slice crosscourt, forced error. (7-shot rally)",True,W,,,
-Carlos Alcaraz,1‑0,5‑1,40‑30,"1st serve wide; backhand slice return down the line (shallow); forehand crosscourt (long), unforced error.",False,W,,,
-Carlos Alcaraz,1‑0,5‑1,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,T,L,,
-Carlos Alcaraz,1‑0,5‑1,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,,,T,
-Carlos Alcaraz,1‑0,5‑1,AD‑40,"1st serve down the T, service winner.",True,T,,,
+Server,Sets,Games,Points,info,left_win,serve,fault,is_first
+Carlos Alcaraz,0‑0,0‑0,0‑0,"1st serve down the T, service winner.",True,T,,True
+Carlos Alcaraz,0‑0,0‑0,15‑0,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the line (very deep), winner.",False,T,W,True
+Carlos Alcaraz,0‑0,0‑0,15‑0,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the line (very deep), winner.",False,W,,False
+Carlos Alcaraz,0‑0,0‑0,15‑15,"1st serve down the T, service winner.",True,T,,True
+Carlos Alcaraz,0‑0,0‑0,30‑15,"1st serve down the T; forehand chip/slice return down the middle (shallow); forehand crosscourt, winner.",True,T,,True
+Carlos Alcaraz,0‑0,0‑0,40‑15,"1st serve wide, service winner.",True,W,,True
+,,,,,,,,True
+Lorenzo Musetti,0‑0,0‑1,0‑0,"1st serve down the T; backhand return down the middle (deep); forehand down the middle; backhand crosscourt (long), unforced error.",True,T,,True
+Lorenzo Musetti,0‑0,0‑1,15‑0,"1st serve wide; backhand return crosscourt (deep); forehand drop shot inside-out; backhand slice at net crosscourt; backhand slice at net crosscourt (wide), unforced error. (4-shot rally)",False,W,,True
+Lorenzo Musetti,0‑0,0‑1,15‑15,"1st serve wide, service winner.",True,W,,True
+Lorenzo Musetti,0‑0,0‑1,30‑15,"1st serve down the T, service winner.",True,T,,True
+Lorenzo Musetti,0‑0,0‑1,40‑15,"1st serve wide, service winner.",True,W,,True
+,,,,,,,,True
+Carlos Alcaraz,0‑0,1‑1,0‑0,"1st serve wide, fault (net). 2nd serve wide; forehand return down the line (deep); backhand crosscourt; backhand slice down the line; forehand chip/slice at net crosscourt, winner. (5-shot rally)",True,W,N,True
+Carlos Alcaraz,0‑0,1‑1,0‑0,"1st serve wide, fault (net). 2nd serve wide; forehand return down the line (deep); backhand crosscourt; backhand slice down the line; forehand chip/slice at net crosscourt, winner. (5-shot rally)",True,W,,False
+Carlos Alcaraz,0‑0,1‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt (net), unforced error.",False,T,N,True
+Carlos Alcaraz,0‑0,1‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt (net), unforced error.",False,W,,False
+Carlos Alcaraz,0‑0,1‑1,15‑15,"1st serve wide; forehand return down the middle (very deep); forehand inside-out; backhand slice down the middle, forced error.",True,W,,True
+Carlos Alcaraz,0‑0,1‑1,30‑15,"1st serve wide; backhand slice return crosscourt (very deep); forehand inside-out; backhand slice down the middle; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand slice down the line; forehand at net down the middle; backhand lob crosscourt (long), unforced error. (9-shot rally)",True,W,,True
+Carlos Alcaraz,0‑0,1‑1,40‑15,"1st serve down the T, ace.",True,T,,True
+,,,,,,,,True
+Lorenzo Musetti,0‑0,1‑2,0‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return inside-out (deep); forehand chip/slice down the line, forced error.",False,W,N,True
+Lorenzo Musetti,0‑0,1‑2,0‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return inside-out (deep); forehand chip/slice down the line, forced error.",False,T,,False
+Lorenzo Musetti,0‑0,1‑2,0‑15,"1st serve down the T, fault (long). 2nd serve wide; backhand return down the middle (long), unforced error.",True,T,L,True
+Lorenzo Musetti,0‑0,1‑2,0‑15,"1st serve down the T, fault (long). 2nd serve wide; backhand return down the middle (long), unforced error.",True,W,,False
+Lorenzo Musetti,0‑0,1‑2,15‑15,"1st serve down the T; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand crosscourt, winner. (6-shot rally)",False,T,,True
+Lorenzo Musetti,0‑0,1‑2,15‑30,"1st serve wide; backhand return down the middle (shallow); backhand inside-out; forehand chip/slice down the middle; forehand at net crosscourt; forehand chip/slice down the middle, forced error. (5-shot rally)",True,W,,True
+Lorenzo Musetti,0‑0,1‑2,30‑30,"1st serve wide, fault (net). 2nd serve wide; forehand chip/slice return down the line (very deep); backhand down the middle; forehand down the middle; forehand inside-out; backhand crosscourt; forehand inside-out; backhand down the line; forehand down the middle; forehand drop shot inside-out; backhand slice at net crosscourt; backhand lob crosscourt (wide), unforced error. (11-shot rally)",True,W,N,True
+Lorenzo Musetti,0‑0,1‑2,30‑30,"1st serve wide, fault (net). 2nd serve wide; forehand chip/slice return down the line (very deep); backhand down the middle; forehand down the middle; forehand inside-out; backhand crosscourt; forehand inside-out; backhand down the line; forehand down the middle; forehand drop shot inside-out; backhand slice at net crosscourt; backhand lob crosscourt (wide), unforced error. (11-shot rally)",True,W,,False
+Lorenzo Musetti,0‑0,1‑2,40‑30,"1st serve wide; backhand return crosscourt (deep); backhand slice crosscourt; backhand at net crosscourt; backhand down the line, forced error. (4-shot rally)",False,W,,True
+Lorenzo Musetti,0‑0,1‑2,40‑40,"1st serve down the T, ace.",True,T,,True
+Lorenzo Musetti,0‑0,1‑2,AD‑40,"1st serve down the T, service winner.",True,T,,True
+,,,,,,,,True
+Carlos Alcaraz,0‑0,2‑2,0‑0,"1st serve wide; forehand return down the line (shallow); backhand down the middle; forehand inside-out; backhand crosscourt; backhand slice crosscourt (net), unforced error. (5-shot rally)",True,W,,True
+Carlos Alcaraz,0‑0,2‑2,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand slice return crosscourt (deep); forehand drop shot inside-out, winner.",True,T,N,True
+Carlos Alcaraz,0‑0,2‑2,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand slice return crosscourt (deep); forehand drop shot inside-out, winner.",True,W,,False
+Carlos Alcaraz,0‑0,2‑2,30‑0,"1st serve wide; forehand chip/slice return down the line (shallow); forehand approach shot inside-in; forehand chip/slice down the middle; smash inside-out, winner. (5-shot rally)",True,W,,True
+Carlos Alcaraz,0‑0,2‑2,40‑0,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the middle; backhand crosscourt; forehand inside-out; backhand slice down the line; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line; backhand down the line; forehand crosscourt (wide), unforced error. (13-shot rally)",True,W,N,True
+Carlos Alcaraz,0‑0,2‑2,40‑0,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the middle; backhand crosscourt; forehand inside-out; backhand slice down the line; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line; backhand down the line; forehand crosscourt (wide), unforced error. (13-shot rally)",True,W,,False
+,,,,,,,,True
+Lorenzo Musetti,0‑0,2‑3,0‑0,"1st serve wide, fault (net). 2nd serve to body; backhand return inside-in (long), unforced error.",True,W,N,True
+Lorenzo Musetti,0‑0,2‑3,0‑0,"1st serve wide, fault (net). 2nd serve to body; backhand return inside-in (long), unforced error.",True,B,,False
+Lorenzo Musetti,0‑0,2‑3,15‑0,"1st serve wide; backhand return crosscourt (very deep); forehand inside-out; backhand drop shot down the line (net), unforced error.",True,W,,True
+Lorenzo Musetti,0‑0,2‑3,30‑0,"1st serve down the T, fault (net). 2nd serve down the T, service winner.",True,T,N,True
+Lorenzo Musetti,0‑0,2‑3,30‑0,"1st serve down the T, fault (net). 2nd serve down the T, service winner.",True,T,,False
+Lorenzo Musetti,0‑0,2‑3,40‑0,"1st serve wide, fault (wide). 2nd serve wide; backhand return crosscourt (very deep); backhand slice down the line; forehand down the line (long), unforced error.",True,W,W,True
+Lorenzo Musetti,0‑0,2‑3,40‑0,"1st serve wide, fault (wide). 2nd serve wide; backhand return crosscourt (very deep); backhand slice down the line; forehand down the line (long), unforced error.",True,W,,False
+,,,,,,,,True
+Carlos Alcaraz,0‑0,3‑3,0‑0,"1st serve down the T; backhand slice return down the middle (very deep); forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt, winner. (7-shot rally)",True,T,,True
+Carlos Alcaraz,0‑0,3‑3,15‑0,"1st serve down the T, fault (wide). 2nd serve down the T; forehand return down the middle (deep); forehand inside-out, winner.",True,T,W,True
+Carlos Alcaraz,0‑0,3‑3,15‑0,"1st serve down the T, fault (wide). 2nd serve down the T; forehand return down the middle (deep); forehand inside-out, winner.",True,T,,False
+Carlos Alcaraz,0‑0,3‑3,30‑0,"1st serve to body; forehand return down the line (deep); backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand crosscourt; backhand slice crosscourt; backhand down the line; forehand down the line; backhand slice down the middle, forced error. (10-shot rally)",False,B,,True
+Carlos Alcaraz,0‑0,3‑3,30‑15,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (deep); forehand inside-out; backhand down the middle; forehand crosscourt (long), unforced error. (4-shot rally)",False,W,N,True
+Carlos Alcaraz,0‑0,3‑3,30‑15,"1st serve wide, fault (net). 2nd serve wide; backhand return down the middle (deep); forehand inside-out; backhand down the middle; forehand crosscourt (long), unforced error. (4-shot rally)",False,W,,False
+Carlos Alcaraz,0‑0,3‑3,30‑30,"1st serve wide; forehand return down the middle (very deep); forehand inside-out; backhand down the line (wide), unforced error.",True,W,,True
+Carlos Alcaraz,0‑0,3‑3,40‑30,"1st serve wide, fault (net). 2nd serve wide; backhand slice return crosscourt (very deep); forehand inside-in, winner.",True,W,N,True
+Carlos Alcaraz,0‑0,3‑3,40‑30,"1st serve wide, fault (net). 2nd serve wide; backhand slice return crosscourt (very deep); forehand inside-in, winner.",True,W,,False
+,,,,,,,,True
+Lorenzo Musetti,0‑0,3‑4,0‑0,"1st serve down the T, service winner.",True,T,,True
+Lorenzo Musetti,0‑0,3‑4,15‑0,"1st serve wide, ace.",True,W,,True
+Lorenzo Musetti,0‑0,3‑4,30‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return down the middle (very deep); forehand chip/slice inside-out; forehand inside-out (net), unforced error.",True,W,N,True
+Lorenzo Musetti,0‑0,3‑4,30‑0,"1st serve wide, fault (net). 2nd serve down the T; backhand return down the middle (very deep); forehand chip/slice inside-out; forehand inside-out (net), unforced error.",True,T,,False
+Lorenzo Musetti,0‑0,3‑4,40‑0,"1st serve down the T, fault (long). 2nd serve wide; backhand return crosscourt (long), unforced error.",True,T,L,True
+Lorenzo Musetti,0‑0,3‑4,40‑0,"1st serve down the T, fault (long). 2nd serve wide; backhand return crosscourt (long), unforced error.",True,W,,False
+,,,,,,,,True
+Carlos Alcaraz,0‑0,4‑4,0‑0,"1st serve down the T, service winner.",True,T,,True
+Carlos Alcaraz,0‑0,4‑4,15‑0,"1st serve down the T; forehand return down the middle (shallow); forehand inside-out; backhand down the middle; forehand crosscourt; forehand down the line; backhand down the line (net), unforced error. (6-shot rally)",False,T,,True
+Carlos Alcaraz,0‑0,4‑4,15‑15,"1st serve wide, service winner.",True,W,,True
+Carlos Alcaraz,0‑0,4‑4,30‑15,"1st serve wide; backhand slice return crosscourt (very deep); forehand inside-out; backhand down the middle (long), unforced error.",True,W,,True
+Carlos Alcaraz,0‑0,4‑4,40‑15,"1st serve down the T; backhand slice return down the middle; forehand volley crosscourt; forehand chip/slice down the middle (long), unforced error.",True,T,,True
+,,,,,,,,True
+Lorenzo Musetti,0‑0,4‑5,0‑0,"1st serve down the T, fault (net). 2nd serve down the T; backhand return inside-out (shallow); forehand down the line; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the middle; backhand down the middle (long), unforced error. (7-shot rally)",True,T,N,True
+Lorenzo Musetti,0‑0,4‑5,0‑0,"1st serve down the T, fault (net). 2nd serve down the T; backhand return inside-out (shallow); forehand down the line; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the middle; backhand down the middle (long), unforced error. (7-shot rally)",True,T,,False
+Lorenzo Musetti,0‑0,4‑5,15‑0,"1st serve down the T, service winner.",True,T,,True
+Lorenzo Musetti,0‑0,4‑5,30‑0,"1st serve down the T; backhand return down the middle (shallow); forehand inside-out (net), unforced error.",False,T,,True
+Lorenzo Musetti,0‑0,4‑5,30‑15,"1st serve wide, ace.",True,W,,True
+Lorenzo Musetti,0‑0,4‑5,40‑15,"1st serve wide; forehand return down the middle (very deep); forehand inside-out, forced error.",False,W,,True
+Lorenzo Musetti,0‑0,4‑5,40‑30,"1st serve down the T; forehand chip/slice return down the middle (deep); forehand approach shot inside-out; backhand slice crosscourt; backhand volley down the line; forehand down the line; backhand volley crosscourt; backhand at net down the line, winner. (8-shot rally)",False,T,,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve wide; forehand return crosscourt (shallow), winner.",False,T,L,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve wide; forehand return crosscourt (shallow), winner.",False,W,,False
+Lorenzo Musetti,0‑0,4‑5,40‑AD,"1st serve wide; backhand return crosscourt (shallow); backhand volley down the line; forehand down the line (net), unforced error.",True,W,,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, service winner.",True,W,,True
+Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide; backhand return down the middle (shallow); forehand approach shot crosscourt; forehand chip/slice down the middle; backhand volley down the middle; forehand at net inside-out, winner. (6-shot rally)",False,W,,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand slice crosscourt; backhand down the line; forehand chip/slice down the middle; forehand crosscourt; forehand chip/slice down the line; smash at baseline inside-in; forehand down the middle; forehand approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (17-shot rally)",True,W,L,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand slice crosscourt; backhand down the line; forehand chip/slice down the middle; forehand crosscourt; forehand chip/slice down the line; smash at baseline inside-in; forehand down the middle; forehand approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (17-shot rally)",True,T,,False
+Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return approach shot crosscourt (deep); backhand slice crosscourt; backhand volley down the line, winner. (4-shot rally)",False,W,L,True
+Lorenzo Musetti,0‑0,4‑5,AD‑40,"1st serve wide, fault (long). 2nd serve down the T; backhand return approach shot crosscourt (deep); backhand slice crosscourt; backhand volley down the line, winner. (4-shot rally)",False,T,,False
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (shallow); backhand crosscourt; backhand down the middle; forehand inside-out (wide), unforced error. (4-shot rally)",False,T,L,True
+Lorenzo Musetti,0‑0,4‑5,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (shallow); backhand crosscourt; backhand down the middle; forehand inside-out (wide), unforced error. (4-shot rally)",False,T,,False
+Lorenzo Musetti,0‑0,4‑5,40‑AD,"1st serve down the T; forehand chip/slice return crosscourt (shallow); forehand approach shot crosscourt; forehand down the middle; backhand volley crosscourt; backhand lob crosscourt; backhand overhead crosscourt; backhand down the line; forehand down the line (wide), unforced error. (8-shot rally)",False,T,,True
+,,,,,,,,True
+Carlos Alcaraz,1‑0,0‑0,0‑0,"1st serve down the T; backhand slice return crosscourt (shallow); forehand inside-in; forehand chip/slice crosscourt, forced error.",True,T,,True
+Carlos Alcaraz,1‑0,0‑0,15‑0,"1st serve down the T; forehand return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,T,,True
+Carlos Alcaraz,1‑0,0‑0,30‑0,"1st serve wide; forehand return down the middle (very deep); forehand crosscourt, winner.",True,W,,True
+Carlos Alcaraz,1‑0,0‑0,40‑0,"1st serve wide; backhand return down the line (deep); forehand crosscourt, winner.",True,W,,True
+,,,,,,,,True
+Lorenzo Musetti,0‑1,0‑1,0‑0,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (very deep); backhand crosscourt; backhand down the middle; backhand slice down the middle; forehand chip/slice approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (8-shot rally)",False,T,L,True
+Lorenzo Musetti,0‑1,0‑1,0‑0,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (very deep); backhand crosscourt; backhand down the middle; backhand slice down the middle; forehand chip/slice approach shot inside-out; backhand crosscourt; backhand volley down the line, winner. (8-shot rally)",False,T,,False
+Lorenzo Musetti,0‑1,0‑1,0‑15,"1st serve wide, fault (long). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt; forehand inside-in; forehand down the middle; forehand crosscourt; forehand chip/slice down the line; forehand inside-in (net), unforced error. (7-shot rally)",True,W,L,True
+Lorenzo Musetti,0‑1,0‑1,0‑15,"1st serve wide, fault (long). 2nd serve wide; backhand return crosscourt (very deep); backhand crosscourt; forehand inside-in; forehand down the middle; forehand crosscourt; forehand chip/slice down the line; forehand inside-in (net), unforced error. (7-shot rally)",True,W,,False
+Lorenzo Musetti,0‑1,0‑1,15‑15,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (very deep); backhand slice crosscourt; backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand down the middle; forehand inside-out (wide), unforced error. (8-shot rally)",False,T,W,True
+Lorenzo Musetti,0‑1,0‑1,15‑15,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (very deep); backhand slice crosscourt; backhand crosscourt; backhand crosscourt; backhand down the line; forehand down the line; backhand down the middle; forehand inside-out (wide), unforced error. (8-shot rally)",False,T,,False
+Lorenzo Musetti,0‑1,0‑1,15‑30,"1st serve wide, service winner.",True,W,,True
+Lorenzo Musetti,0‑1,0‑1,30‑30,"1st serve down the T; backhand return crosscourt (very deep); backhand down the middle; forehand crosscourt (net), unforced error.",True,T,,True
+Lorenzo Musetti,0‑1,0‑1,40‑30,"1st serve wide; backhand return crosscourt (shallow); backhand slice crosscourt; backhand down the middle; forehand crosscourt; forehand crosscourt; forehand down the line (long), unforced error. (6-shot rally)",False,W,,True
+Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide, fault (wide). 2nd serve down the T; backhand return crosscourt (long), unforced error.",True,W,W,True
+Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide, fault (wide). 2nd serve down the T; backhand return crosscourt (long), unforced error.",True,T,,False
+Lorenzo Musetti,0‑1,0‑1,AD‑40,"1st serve wide; backhand return down the middle (shallow); backhand inside-out; forehand chip/slice crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle, forced error. (6-shot rally)",False,W,,True
+Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (deep); backhand crosscourt; backhand crosscourt; backhand down the middle (long), unforced error. (4-shot rally)",False,T,W,True
+Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return crosscourt (deep); backhand crosscourt; backhand crosscourt; backhand down the middle (long), unforced error. (4-shot rally)",False,T,,False
+Lorenzo Musetti,0‑1,0‑1,40‑AD,"1st serve wide, service winner.",True,W,,True
+Lorenzo Musetti,0‑1,0‑1,40‑40,"1st serve wide; forehand return crosscourt (very deep); forehand down the line; backhand slice crosscourt (net), unforced error.",True,W,,True
+Lorenzo Musetti,0‑1,0‑1,AD‑40,"1st serve wide, service winner.",True,W,,True
+,,,,,,,,True
+Carlos Alcaraz,1‑0,1‑1,0‑0,"1st serve down the T; backhand slice return down the middle (shallow); forehand at net crosscourt; forehand chip/slice down the middle; smash crosscourt, winner. (5-shot rally)",True,T,,True
+Carlos Alcaraz,1‑0,1‑1,15‑0,"1st serve wide, fault (net). 2nd serve down the T; forehand return down the middle (shallow); forehand inside-out (net), unforced error.",False,W,N,True
+Carlos Alcaraz,1‑0,1‑1,15‑0,"1st serve wide, fault (net). 2nd serve down the T; forehand return down the middle (shallow); forehand inside-out (net), unforced error.",False,T,,False
+Carlos Alcaraz,1‑0,1‑1,15‑15,"1st serve down the T, ace.",True,T,,True
+Carlos Alcaraz,1‑0,1‑1,30‑15,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand chip/slice crosscourt, forced error. (5-shot rally)",True,T,W,True
+Carlos Alcaraz,1‑0,1‑1,30‑15,"1st serve down the T, fault (wide). 2nd serve wide; backhand return down the middle (very deep); forehand crosscourt; forehand chip/slice crosscourt; forehand crosscourt; forehand chip/slice crosscourt, forced error. (5-shot rally)",True,W,,False
+Carlos Alcaraz,1‑0,1‑1,40‑15,"1st serve to body, service winner.",True,B,,True
+,,,,,,,,True
+Lorenzo Musetti,0‑1,1‑2,0‑0,"1st serve down the T; backhand return down the middle (very deep); forehand inside-out; backhand crosscourt; backhand slice crosscourt; forehand inside-out; backhand down the middle; backhand approach shot inside-out; forehand down the middle; forehand volley inside-out, winner. (10-shot rally)",False,T,,True
+Lorenzo Musetti,0‑1,1‑2,0‑15,"1st serve to body; backhand return crosscourt (shallow); backhand crosscourt (wide), unforced error.",False,B,,True
+Lorenzo Musetti,0‑1,1‑2,0‑30,"1st serve down the T; backhand return crosscourt (shallow); backhand drop shot down the line (net), unforced error.",False,T,,True
+Lorenzo Musetti,0‑1,1‑2,0‑40,"1st serve wide; backhand return crosscourt (deep); forehand inside-in; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt (long), unforced error. (6-shot rally)",False,W,,True
+,,,,,,,,True
+Carlos Alcaraz,1‑0,3‑1,0‑0,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return inside-out (deep); forehand down the line; backhand crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle; forehand crosscourt; forehand down the middle; forehand inside-out; backhand crosscourt; backhand down the middle; forehand inside-out; backhand drop shot down the line; forehand chip/slice at net crosscourt; forehand chip/slice down the line, forced error. (18-shot rally)",False,T,W,True
+Carlos Alcaraz,1‑0,3‑1,0‑0,"1st serve down the T, fault (wide). 2nd serve down the T; backhand return inside-out (deep); forehand down the line; backhand crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt; forehand down the line; backhand crosscourt; backhand slice down the middle; forehand crosscourt; forehand down the middle; forehand inside-out; backhand crosscourt; backhand down the middle; forehand inside-out; backhand drop shot down the line; forehand chip/slice at net crosscourt; forehand chip/slice down the line, forced error. (18-shot rally)",False,T,,False
+Carlos Alcaraz,1‑0,3‑1,0‑15,"1st serve wide; backhand slice return down the middle; forehand volley crosscourt, winner.",True,W,,True
+Carlos Alcaraz,1‑0,3‑1,15‑15,"1st serve wide; forehand return crosscourt (very deep); forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand crosscourt; forehand down the line, winner. (8-shot rally)",False,W,,True
+Carlos Alcaraz,1‑0,3‑1,15‑30,"1st serve wide; backhand slice return crosscourt (shallow); backhand at net crosscourt; backhand down the line; forehand volley crosscourt; forehand at net crosscourt, winner. (6-shot rally)",False,W,,True
+Carlos Alcaraz,1‑0,3‑1,15‑40,"1st serve down the T; backhand slice return crosscourt (shallow); forehand at net inside-out, winner.",True,T,,True
+Carlos Alcaraz,1‑0,3‑1,30‑40,"1st serve to body, service winner.",True,B,,True
+Carlos Alcaraz,1‑0,3‑1,40‑40,"1st serve wide, service winner.",True,W,,True
+Carlos Alcaraz,1‑0,3‑1,AD‑40,"1st serve wide, fault (net). 2nd serve wide; backhand return down the line (deep); forehand chip/slice down the middle; forehand down the middle, forced error.",True,W,N,True
+Carlos Alcaraz,1‑0,3‑1,AD‑40,"1st serve wide, fault (net). 2nd serve wide; backhand return down the line (deep); forehand chip/slice down the middle; forehand down the middle, forced error.",True,W,,False
+,,,,,,,,True
+Lorenzo Musetti,0‑1,1‑4,0‑0,"1st serve down the T; backhand return crosscourt (deep); backhand crosscourt (wide), unforced error.",False,T,,True
+Lorenzo Musetti,0‑1,1‑4,0‑15,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the middle (long), unforced error.",True,T,N,True
+Lorenzo Musetti,0‑1,1‑4,0‑15,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the middle (long), unforced error.",True,W,,False
+Lorenzo Musetti,0‑1,1‑4,15‑15,"1st serve wide; forehand return down the middle (deep); forehand chip/slice inside-out; backhand down the line; forehand chip/slice down the line; backhand crosscourt, winner. (6-shot rally)",False,W,,True
+Lorenzo Musetti,0‑1,1‑4,15‑30,"1st serve wide; backhand return crosscourt (very deep); backhand drop shot crosscourt (net), unforced error.",False,W,,True
+Lorenzo Musetti,0‑1,1‑4,15‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (deep); backhand down the line (wide), unforced error.",False,T,L,True
+Lorenzo Musetti,0‑1,1‑4,15‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand return crosscourt (deep); backhand down the line (wide), unforced error.",False,T,,False
+,,,,,,,,True
+Carlos Alcaraz,1‑0,5‑1,0‑0,"1st serve down the T, service winner.",True,T,,True
+Carlos Alcaraz,1‑0,5‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the line (very deep); forehand crosscourt; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand down the line; forehand chip/slice crosscourt; forehand down the line (wide), unforced error. (8-shot rally)",False,T,N,True
+Carlos Alcaraz,1‑0,5‑1,15‑0,"1st serve down the T, fault (net). 2nd serve wide; backhand return down the line (very deep); forehand crosscourt; forehand crosscourt; forehand chip/slice down the line; backhand crosscourt; backhand down the line; forehand chip/slice crosscourt; forehand down the line (wide), unforced error. (8-shot rally)",False,W,,False
+Carlos Alcaraz,1‑0,5‑1,15‑15,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return crosscourt (deep); backhand crosscourt; backhand slice crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt (net), unforced error. (6-shot rally)",False,T,L,True
+Carlos Alcaraz,1‑0,5‑1,15‑15,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return crosscourt (deep); backhand crosscourt; backhand slice crosscourt; backhand crosscourt; backhand down the line; forehand crosscourt (net), unforced error. (6-shot rally)",False,T,,False
+Carlos Alcaraz,1‑0,5‑1,15‑30,"1st serve wide; backhand slice return down the middle (deep); forehand inside-out, winner.",True,W,,True
+Carlos Alcaraz,1‑0,5‑1,30‑30,"1st serve wide; forehand return down the line (deep); backhand down the middle; backhand inside-out; forehand crosscourt; forehand chip/slice down the line; backhand slice at net down the line; forehand chip/slice crosscourt, forced error. (7-shot rally)",True,W,,True
+Carlos Alcaraz,1‑0,5‑1,40‑30,"1st serve wide; backhand slice return down the line (shallow); forehand crosscourt (long), unforced error.",False,W,,True
+Carlos Alcaraz,1‑0,5‑1,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,T,L,True
+Carlos Alcaraz,1‑0,5‑1,40‑40,"1st serve down the T, fault (long). 2nd serve down the T; backhand slice return down the middle (shallow); forehand approach shot inside-out; backhand slice crosscourt; smash inside-in, winner. (5-shot rally)",True,T,,False
+Carlos Alcaraz,1‑0,5‑1,AD‑40,"1st serve down the T, service winner.",True,T,,True
