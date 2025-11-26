@@ -14,6 +14,7 @@ def parse_tennis_table(url, file_name):
             df["left_win"] = score_to_left_win(df['Points'])
             service_columns = ['first', 'first_f', 'second', 'second_f']
             df[service_columns] = df['info'].apply(info_parser).apply(pd.Series)
+            df = split_second_rows(df)
         except Exception as e:
             print(f"Error processing DataFrame: {e}")
         try:
@@ -182,6 +183,33 @@ def info_parser(info):
     serves = find_serve_patterns(info)
     faults = find_fault_patterns(info)
     return [serves[0], faults[0], serves[1], faults[1]]
+
+def split_second_rows(df):
+    rows = []
+
+    for _, row in df.iterrows():
+        # 元の行をコピー
+        row_orig = row.copy()
+
+        # second がある場合に分割する
+        if pd.notnull(row['second']) or pd.notnull(row['second_f']):
+            # 新しい行を作る
+            row_new = row.copy()
+
+            # 元の行の second を消す
+            row_orig['second'] = None
+            row_orig['second_f'] = None
+
+            # 新しい行では first を None に
+            row_new['first'] = None
+            row_new['first_f'] = None
+
+            rows.append(row_orig)
+            rows.append(row_new)
+        else:
+            rows.append(row_orig)
+
+    return pd.DataFrame(rows)
 
 if __name__ == "__main__":
     prompt = "Enter the url: "
